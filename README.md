@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate programmer from New York looking for new opportunities</h3>
 
-- 📫 How to reach me **danmallon85@gmail.com**
+- After a brief hiatus from programming, I am eagerly ready to get back into it on a professional level.
 - I'm actively looking for opportunities to gain hands-on experience through internships, projects, or collaborations. I'm eager to contribute, learn from experienced developers, and improve my skills. Thank you! 🚀
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **danmallon85@gmail.com** </h3>
 <p align="left">
 </p>
 
